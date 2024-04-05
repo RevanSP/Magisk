@@ -1,4 +1,4 @@
-![](logo.png)
+![](/logo.png)
 
 #### This is not an officially supported Google product
 
